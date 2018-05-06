@@ -1,4 +1,7 @@
 # AI writter - Data2Doc
+
+Related article: https://medium.com/@gau820827/%E6%95%99%E9%9B%BB%E8%85%A6%E5%AF%AB%E4%BD%9C-ai%E7%90%83%E8%A9%95-seq2seq%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8%E7%AD%86%E8%A8%98-pytorch-python3-31e853573dd0
+
 This is the project for automatically generating summarizatons given NBA game box-score.
 
 ## Requirements
